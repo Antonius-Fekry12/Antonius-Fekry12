@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **antoniusfekryabdo@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/george-esbergen-80a989195)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/antoniusfekry)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
