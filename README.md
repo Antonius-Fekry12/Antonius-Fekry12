@@ -1,5 +1,9 @@
 ## Welcome to my Profile 👋
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Antonius+Fekry;Software+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
+</p>
+
 ```js
 myInfo = {
   "Name"  : "Antonius Fekry",
