@@ -1,43 +1,183 @@
-## Welcome to my Profile 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=20&color=0CA727&multiline=true&width=435&height=150&lines=Welcome+to+my+Profile+%F0%9F%91%8B;myInfo+%3D+%7B;%22+Name+%22+%3A+++%22+Antonius+Fekry+%22;%22+Track+%22+%3A+%22+Flutter+Developer+%22;%7D)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Antonius+Fekry;Software+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
-</p>
+<img align="right" alt="coding" width="390" src="https://github.com/AntoniusFekry/AntoniusFekry/blob/1eb42662800b5a41020da55ef86135e5999c4a06/mobile-app-development.gif">
+- 🌱 I’m currently learning **Flutter , Machine Learning**
 
-```js
-myInfo = {
-  "Name"  : "Antonius Fekry",
-  "Track" : "Software Developer"
-}
-```
+- 📫 How to reach me **antoniusfekryabdo@gmail.com**
 
-- 🌱 I'm currently learning **Flutter, Machine Learning**
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/george-esbergen-80a989195)
 
-- 📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
-- 📄 Know about my experience: [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-
-### Connect with me:
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" style="filter: invert(27%) sepia(94%) saturate(1000%) hue-rotate(190deg);" alt="LinkedIn"/>
+  
+<a href="https://linkedin.com/in/george-esbergen-80a989195" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/georgeesbergen50" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://kaggle.com/georgeesbergen" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/georgereyad50" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/YOUR_ID" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
+</a>
+
+</p>
+<br>
+ <hr height: 1px  >
+
+<h3 align="left">  🎓 Education </h3>
+
+- **Future Academy**  
+  *Bachelor's in Computer Science*  
+  📅 **October 2020 - May 2024**  
+  🏆 **GPA**: 3.3 / 4.0 
+  🎓 **Graduation Project**: A+
+<hr height: 1px >
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://dart.dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://flutter.dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.php.net" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.mathworks.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" style="margin:5px"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="margin:5px"/>
+</a>
+
+</p> <hr height: 1px >
+<h3 align="left"> 🔝 Top languages used</h3>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEsbergen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<hr height="1px">
+
+<h3 align="left"> 🚀 Projects </h3>
+
+<!-- Run And Drive -->
+<h4>🚗 Run And Drive</h4>
+<p>
+A comprehensive <b>car services mobile application</b> built with Flutter supporting
+<b>10 different user roles</b> (customers, drivers, workshops, admins, etc.).
+It enables service booking, order tracking, role-based management, and a scalable system architecture.
+</p>
+<p>
+  <a href="https://apps.apple.com/app/run-and-drive/id6737423228" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
+         alt="Apple Store" width="28" height="28"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode"/>
-  </a>
-  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="32" height="32" style="filter: invert(50%) sepia(90%) saturate(1000%) hue-rotate(180deg);" alt="Kaggle"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/your-tableau" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="32" height="32" alt="Tableau"/>
-  </a>
-  <a href="https://discord.com/users/your-discord" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32" height="32" style="filter: invert(38%) sepia(93%) saturate(2000%) hue-rotate(220deg);" alt="Discord"/>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.apexnile.runanddriveuser" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
+     alt="Google Play" width="28" height="28"/>
   </a>
 </p>
 
----
+<!-- 3nwani -->
+<h4>🏠 3nwani</h4>
+<p>
+A <b>real estate mobile application</b> built with Flutter that allows users to browse,
+search, and explore properties with detailed listings and maps.
+Focused on smooth user experience, clean UI, and high performance.
+</p>
+<p>
+  <a href="https://apps.apple.com/eg/app/3nwani/id6739836108" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
+         alt="Apple Store" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.apexnile.anwaniand" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
+     alt="Google Play" width="28" height="28"/>
+  </a>
+</p>
 
-<!--
-**Antonius-Fekry12/Antonius-Fekry12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- AlFakher -->
+<h4>💨 AlFakher</h4>
+<p>
+An <b>e-commerce mobile application</b> for shisha and vape products built with Flutter.
+Provides product browsing, cart management, secure checkout, and order tracking with a modern UI.
+</p>
+<p>
+  <a href="https://apps.apple.com/app/al-fakher/id6754068092" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/0/747.png"
+     alt="Apple Store" width="28" height="28"/>
+
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.apexnile.hoocka" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png"
+     alt="Google Play" width="28" height="28"/>
+
+  </a>
+</p>
