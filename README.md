@@ -36,10 +36,10 @@
 
 <h3 align="left">  🎓 Education </h3>
 
-- **Future Academy**  
+- **The Egyptian E-learning University (EELU)**  
   *Bachelor's in Computer Science*  
   📅 **October 2020 - May 2024**  
-  🏆 **GPA**: 3.3 / 4.0 
+  🏆 **GPA**: 3.01 / 4.0 
   🎓 **Graduation Project**: A+
 <hr height: 1px >
 
