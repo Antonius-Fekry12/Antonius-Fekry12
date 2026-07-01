@@ -1,16 +1,39 @@
-## Hi there 👋
+## Welcome to my Profile 👋
+
+```js
+myInfo = {
+  "Name"  : "Antonius Fekry",
+  "Track" : "Software Developer"
+}
+```
+
+- 🌱 I'm currently learning **Flutter, Machine Learning**
+
+- 📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+- 📄 Know about my experience: [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" style="filter: invert(27%) sepia(94%) saturate(1000%) hue-rotate(190deg);" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/your-leetcode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode"/>
+  </a>
+  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="32" height="32" style="filter: invert(50%) sepia(90%) saturate(1000%) hue-rotate(180deg);" alt="Kaggle"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/your-tableau" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="32" height="32" alt="Tableau"/>
+  </a>
+  <a href="https://discord.com/users/your-discord" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32" height="32" style="filter: invert(38%) sepia(93%) saturate(2000%) hue-rotate(220deg);" alt="Discord"/>
+  </a>
+</p>
+
+---
 
 <!--
 **Antonius-Fekry12/Antonius-Fekry12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
